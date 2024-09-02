@@ -27,7 +27,9 @@ To run the application follow the below steps :
 
         bash app.sh
 
-4. Verify Output : Once you run app.sh you will get the output "Hello World"         
+4. Verify Output : Once you run app.sh you will get the output "Hello World"
+         
+<img width="695" alt="Screenshot 2024-09-02 at 2 55 40 PM" src="https://github.com/user-attachments/assets/b4a2884f-9343-4e4c-8cf3-71cc24d606c2">
 
 
 
