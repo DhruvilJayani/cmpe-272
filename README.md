@@ -1,4 +1,9 @@
 
+Projec tested on Mac
+Docker files are uploaded on docker hub
+
+Documentation is available in cmpe-272-hello-world-assignment.pdf
+
 # Prerequisite
 Software : 
 1. Docker
