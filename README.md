@@ -6,8 +6,7 @@ Software :
 3. Minikube
 
 Port :
-1. 5000
-2. 5001 
+Port 5000 and 5001 should be available
 
 
 # Run the application
